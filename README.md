@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-![linkedin](https://user-images.githubusercontent.com/81263554/170365742-d2b388b3-5962-4e9a-ab55-8b1fd208bfed.svg)
 
+
+<a href="http://linkedin.com/in/donovanodom" target="blank"><img align="center" src="[https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png](https://user-images.githubusercontent.com/81263554/170365742-d2b388b3-5962-4e9a-ab55-8b1fd208bfed.svg)" alt="" height="30" color="white"/></a>
 
 
 <!--
