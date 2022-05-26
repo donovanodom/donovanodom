@@ -19,7 +19,7 @@
 </div>
   
 ## About me:
-My name is Donovan, or Don- I’m a FullStack Web Developer residing in Seattle, WA. My specialties include in React, JavaScript & Redux frontend & Ruby/RoR backend. I enjoy organizing ways to make web development efficient, coordinating innovative & communicative ways to meet client arrangements & most of all, building projects and implementing new technologies to challenge myself as a developer. Web3 & cloud services are my new endeavors as I study Solidity and the Ethereum network in tandem with AWS.
+ My name is Donovan, or Don- I’m a FullStack Web Developer residing in Seattle, WA. My specialties include in React, JavaScript & Redux frontend & Ruby/RoR backend. I enjoy organizing ways to make web development efficient, coordinating innovative & communicative ways to meet client arrangements & most of all, building projects and implementing new technologies to challenge myself as a developer. Web3 & cloud services are my new endeavors as I study Solidity and the Ethereum network in tandem with AWS.
 
 As an alumni of Flatiron school for Computer Software Engineering, I am looking forward to advancing my career and implementing my skills in the tech industry, as well as furthering my education in the field & being a resource for others who have a passion for tech.
 
@@ -34,29 +34,13 @@ To contact me, please email: dodomdev@gmail.com
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-plain.svg" title="Solidity"  alt="Solidity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" title="Rails" **alt="Rails" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" title="Rails" alt="Rails" width="40" height="40"/>
 </div>
 
 ## Stats:
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=donovanodom&theme=monokai-metallian)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donovanodom&layout=compact&theme=vision-friendly-dark&background=010CA0)](https://github.com/anuraghazra/github-readme-stats)
-
-  
-
-<!--
-**donovanodom/donovanodom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...![medium-line](https://user-images.githubusercontent.com/81263554/170369544-af22a2bd-e5ea-485b-8343-c4f2249a4227.png)
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align='center'>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=donovanodom&theme=monokai-metallian" alt="Stats" width="50%" "/>
+  <br>
+  <br>                                                                                                                             
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donovanodom&layout=compact&theme=vision-friendly-dark&bg_color=1F222E" alt="Langs" width="50%"/>
+</div>
