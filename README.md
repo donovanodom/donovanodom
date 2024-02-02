@@ -19,9 +19,7 @@
 </div>
   
 ## About me:
- My name is Donovan, or Don- I’m a FullStack Web Developer residing in Seattle, WA. My specialties include in React, JavaScript & Redux frontend & Ruby/RoR backend. I enjoy organizing ways to make web development efficient, coordinating innovative & communicative ways to meet client arrangements & most of all, building projects and implementing new technologies to challenge myself as a developer. Web3 & cloud services are my new endeavors as I study Solidity and the Ethereum network in tandem with AWS.
-
-As an alumni of Flatiron school for Computer Software Engineering, I am looking forward to advancing my career and implementing my skills in the tech industry, as well as furthering my education in the field & being a resource for others who have a passion for tech.
+My name is Donovan, I’m a Software Engineer residing in Seattle, WA and employed at Climate where my team develops digital farming web applications. My specialties include in React, JavaScript, TypeScript, Redux & GraphQL. I enjoy organizing ways to make web development efficient, coordinating innovative & communicative ways to meet client arrangements & most of all, building projects and implementing new technologies to challenge myself as a developer. 
 
 To contact me, please email: dodomdev@gmail.com
 
@@ -33,8 +31,8 @@ To contact me, please email: dodomdev@gmail.com
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <br/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-plain.svg" title="Solidity"  alt="Solidity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript"  alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="graphql" alt="graphql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" title="Rails" alt="Rails" width="40" height="40"/>
 </div>
 
